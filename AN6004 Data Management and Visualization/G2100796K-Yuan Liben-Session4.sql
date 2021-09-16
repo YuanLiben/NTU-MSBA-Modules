@@ -65,7 +65,3 @@ begin
 end
 $$ delimiter ;
 call q4();
-/* Prof, for this question, I found that if combined basic sc points earned with sc points earned
-in the weekly challenge, Ben accumulated more than 10000 sc points and was also satisfied the 
-redeem requirement. So I write my query above and don't get the same result as in your sample 
-output. Maybe I can discuss this question with you in this week's class? */
